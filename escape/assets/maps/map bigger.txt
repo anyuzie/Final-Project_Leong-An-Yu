@@ -1,0 +1,11 @@
+aaaaaaaaaaaaaaaaaaaaaaaaaa
+a          a     a       a 
+a          a     aaa     a
+a   aaaa   a      a      a
+a   a      aaa          aa
+a   a                   aa
+a   a      a             a
+a   a      a       aaaaaaa
+a          a       a     a
+a          a             a
+aaaaaaaaaaaaaaaaaaaaaaaaaa
